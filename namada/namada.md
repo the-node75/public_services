@@ -4,14 +4,15 @@
 
 
 ## Namada MAINNET
-> #actual chain id
-> NA
+```bash
+#actual chain id
+NA
+```
 > The mainnet is expected to launch in 2024.
 
 
 ## Namada Public Testnet
-> #actual chain id
-> public-testnet-15.0dacadb8d663
+
 
 
 ### Public RPC
@@ -39,8 +40,10 @@ In development🏗
 
 
 ## Namada Сampfire Testnet
-> #actual chain id
-> luminara.857cf638d323bbae2ed94
+```bash
+#actual chain id
+luminara.857cf638d323bbae2ed94
+```
 
 ### Public RPC
 
