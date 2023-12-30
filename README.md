@@ -1,4 +1,4 @@
-# pro-nodes75 public services
+# ![logo](./pro-nodes75-logo-xxs.png?raw=true) pro-nodes75 public services
 
 List of public services provided and supported by our validator. By project
 
