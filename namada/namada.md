@@ -32,7 +32,7 @@ Feature list:
 
 It's now running on our discord server _https://discord.gg/9WpBKyTNrX_ You can try it now!
 
-[![Bot_chat_pict](../main/namada/NamadaBot_chat_example_0.png)]
+[![Bot_chat_pict](../main/namada/NamadaBot_chat_example_0.png?raw=true)]
 
 ### Namada Status Telegram Bot
 In development🏗
