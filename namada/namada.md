@@ -20,10 +20,6 @@ NA
 https://rpc.namada.testnet.node75.org/
 ```
 
-### Consensys dashboard 
-Public grafana dashboard. 
-It shows up-to-date consensus information. This one can be interesting during network halt.
-
 
 ### Namada Testnet Status Discord Bot
 Feature list:
@@ -35,8 +31,17 @@ It's now running on our discord server _https://discord.gg/9WpBKyTNrX_ You can t
 
 ![Bot_chat_pict](./namada_bot_chat_example_0.png?raw=true)
 
+
 ### Namada Status Telegram Bot
 In development🏗
+
+
+### Consensys dashboard 
+Public grafana dashboard. 
+It shows up-to-date consensus information. This one can be interesting during network halt.
+
+https://node75.org/mon/d/namada-testnet/namada-testnet-dashboard
+
 
 
 ## Namada Сampfire Testnet
