@@ -46,7 +46,9 @@ luminara.857cf638d323bbae2ed94
 ```
 
 ### Public RPC
-
+```bash
+TBA
+```
 
 ### Namada Campfire Status Discord Bot
 
