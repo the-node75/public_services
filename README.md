@@ -2,7 +2,7 @@
 
 List of public services provided and supported by our validator. By project
 
-* [Namada](../blob/main/namada/namada.md)
-* [UX chain](../blob/main/ux/ux.md)
+* [Namada](../main/namada/namada.md)
+* [UX chain](../main/ux/ux.md)
 
 _2023_
