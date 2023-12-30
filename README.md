@@ -1,6 +1,6 @@
-![logo](./pro-nodes75-logo-xxs.png?raw=true)
+<img src="./pro-nodes75-logo-xxs.png" alt="logo" style="height: 80px; width:80px;"/>
 # pro-nodes75 public services
-<img src="./pro-nodes75-logo-xxs.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+
 
 List of public services provided and supported by our validator. By project
 
