@@ -14,13 +14,6 @@ NA
 ## Namada Public Testnet
 
 
-
-### Public RPC
-```bash
-https://rpc.namada.testnet.node75.org/
-```
-
-
 ### Namada Testnet Status Discord Bot
 Feature list:
 * Validator uptime control, alerting
@@ -42,7 +35,13 @@ It shows up-to-date consensus information. This one can be interesting during ne
 
 https://node75.org/mon/d/namada-testnet/namada-testnet-dashboard
 
+![Consensys_dash_screen](./namada_cons_dashboard_0.png?raw=true)
 
+
+### Public RPC
+```bash
+https://rpc.namada.testnet.node75.org/
+```
 
 ## Namada Сampfire Testnet
 ```bash
